@@ -1,0 +1,5 @@
+1- Yes, the system is fast enough to handle all tasks. Matrix Task takes around 400 so there is enough time to execute this function many times before timer call back.
+
+2- There was no problem to handle
+
+3- It is changing but on average it was 95ms
