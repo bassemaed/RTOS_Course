@@ -8,7 +8,7 @@
 	<tasks>
 		<task ACET="0" WCET="0.5" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="3.0" et_stddev="0" id="1" instructions="0" list_activation_dates="" mix="0.5" name="Task 1" period="3.0" preemption_cost="0" task_type="Periodic"/>
 		<task ACET="0" WCET="1.5" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="3.0" et_stddev="0" id="2" instructions="0" list_activation_dates="" mix="0.5" name="Task 2" period="4.0" preemption_cost="0" task_type="Periodic"/>
-		<task ACET="0" WCET="1.0" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="0.5" et_stddev="0" id="3" instructions="0" list_activation_dates="" mix="0.5" name="Task 3" period="7.0" preemption_cost="0" task_type="Periodic"/>
-		<task ACET="0" WCET="10.0" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="30.0" et_stddev="0" id="4" instructions="0" list_activation_dates="50.0" mix="0.5" name="Task 4" period="566.848532" preemption_cost="0" task_type="Sporadic"/>
+		<task ACET="0" WCET="1.0" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="5.0" et_stddev="0" id="3" instructions="0" list_activation_dates="" mix="0.5" name="Task 3" period="7.0" preemption_cost="0" task_type="Periodic"/>
+		<task ACET="0" WCET="10.0" abort_on_miss="yes" activationDate="0" base_cpi="1.0" deadline="30.0" et_stddev="0" id="4" instructions="0" list_activation_dates="50.0" mix="0.5" name="Task 4" period="64.881602" preemption_cost="0" task_type="Sporadic"/>
 	</tasks>
 </simulation>
